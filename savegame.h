@@ -1,4 +1,4 @@
-//savegame.h
+// savegame.h
 #ifndef SAVEGAME_H
 #define SAVEGAME_H
 
